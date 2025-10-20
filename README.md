@@ -1,1 +1,1 @@
-# nextdns-blocklist
+# nextdns
